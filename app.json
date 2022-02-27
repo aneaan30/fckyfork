@@ -120,7 +120,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "If you dont know this, Leave as it is",
-      "value": "https://github.com/NotReallyShikhar/YukkiMusicBot",
+      "value": "https://github.com/aneaan30/fckyfork/blob/master/app.json",
       "required": true
     },
     "UPSTREAM_BRANCH": {
